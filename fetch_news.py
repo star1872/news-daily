@@ -52,6 +52,21 @@ SOURCES = {
         "name_cn": "雅虎财经",
         "rss": "https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en",
     },
+    "economist": {
+        "name": "The Economist",
+        "name_cn": "经济学人",
+        "rss": "https://news.google.com/rss/search?q=site%3Aeconomist.com%2Ffinance-and-economics&hl=en-US&gl=US&ceid=US:en",
+    },
+    "barrons": {
+        "name": "Barron's",
+        "name_cn": "巴伦周刊",
+        "rss": "https://news.google.com/rss/search?q=site%3Abarrons.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "project_syndicate": {
+        "name": "Project Syndicate",
+        "name_cn": "Project Syndicate",
+        "rss": "https://news.google.com/rss/search?q=site%3Aproject-syndicate.org%2Fcommentary&hl=en-US&gl=US&ceid=US:en",
+    },
 }
 
 OUTPUT_DIR = Path(__file__).parent
@@ -85,7 +100,7 @@ def generate_markdown(all_data):
         f"# 📰 每日财经新闻摘要",
         f"**更新时间：{now}**",
         "",
-        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)",
+        "> \u6765\u6e90\uff1a" + " · ".join(cfg["name_cn"] for cfg in SOURCES),
         "",
         "---",
         "",
