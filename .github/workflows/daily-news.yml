@@ -27,11 +27,21 @@ jobs:
       - name: 抓取新闻
         run: python fetch_news.py
 
+      - name: 生成口播候选
+        id: select-news
+        continue-on-error: true
+        run: python select_news.py
+
       - name: 提交更新
+        env:
+          SELECTION_OUTCOME: ${{ steps.select-news.outcome }}
         run: |
           git config --global user.name "News Bot"
           git config --global user.email "news-bot@github.com"
           git add news.json news.md
+          if [ "$SELECTION_OUTCOME" = success ]; then
+            git add top_news.json top_news.md
+          fi
           if git diff --staged --quiet; then
             echo "没有新内容，跳过提交"
           else
