@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T13:05:35+00:00",
-  "news_updated": "2026-11-14T13:05:34.954411+00:00",
+  "updated": "2026-11-14T17:54:16+00:00",
+  "news_updated": "2026-11-14T17:54:16.706320+00:00",
   "trends_available": true,
   "events": [
     {
@@ -37,10 +37,10 @@
     },
     {
       "title": "Cisco Stock Falls After Earnings Beat Fails to Ease Long-Term Concerns",
-      "score": 63,
+      "score": 58,
       "scores": {
         "audience_impact": 32,
-        "new_development": 19,
+        "new_development": 14,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
@@ -69,10 +69,10 @@
     },
     {
       "title": "FAA lifts ground stop flights, airline stocks fall",
-      "score": 59,
+      "score": 53,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
