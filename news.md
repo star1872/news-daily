@@ -1,5 +1,5 @@
 # 📰 每日财经新闻摘要
-**更新时间：2026-11-14 08:27 UTC**
+**更新时间：2026-11-14 08:28 UTC**
 
 > 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)
 
@@ -73,8 +73,8 @@
 10. [Moscow tells Europe to pick an envoy if it wants a seat at the table](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUl6NmVlZk1GZ05DUW01U3JNN3luUVJ4bXZRblpyOWVXWXFHeFR4Z0hGbTVSbFVYbzBNektvMWdYRmNLNjdNQk1yWTJCNVltamxHNWxlWURVb1d4b2kyTGdFUV9CRzVHNHY1Z1pSZkhhYUs0bE1Cc0dUU0tnai1SdEcwdGk?oc=5)
 11. [Nscale warns it needs more cash ahead of $35bn IPO](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEszUlJjTzUyRjJJS0hBSF85NWJZaHgyYzJxYmtRRmNKUzYyb3BFU0VwYzFSTEV0X1dYeUR0MFlrUkdZQzhHOUdqZnlETXJCTVM0YWVuOFp6V3ZaOEJXTEotWWtoV3JyOXEtNjZZUlc2Mlk4OGc3QzdPeWtaNkI3R005TEQ?oc=5)
 12. [How Israel lost America](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnBVU3NLb0UyZHlmeWR1ci1YTjNqRGg5Tm5zNXJ3X0U0Y1hjcjVDRUJ0VVJad2FWNThKbjVvaGloUlgwQkFoeTFFcldDekUtSTNSY0xKQlRHYW9sbG91Wk1UOXdEWHFGYnVTMXktbUlNdHBpUHFEblFicURaUlpXcllSQU0?oc=5)
-13. [China’s beaten-down tech stocks could offer AI with a little less drama](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVBvSkdtOVRna0hvdldmUHJoakppR3Iyc3EyR09xdzRwSkR5Y25sZHhKU0RyY3JBOFBGbHZ4ZVlCY05obDVfeHVENW5iSDJULU94VUtmMWE5cVplcFFmX3R5ekEwYnFOcFdDN243UEhMSlg4ME5CM2FrZTJYSDBQX0tpX3Q?oc=5)
-14. [Playing the long game with AI](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTg1QUh6WENQV3RCUXFUU2d4TFJaOF9sY3VaTG1UYXhkOGNxRWJfb2hNYVBsazN0eVZNOHMwZjJrR0xqeXJFQTk0WnpHTEI0SkNwQThzRmhxR0syNDVGd3ZFd0FSaEhaYVJOcTN3LWRHOG13RWFzY2tqTjJXTzhQaQ?oc=5)
+13. [Playing the long game with AI](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTg1QUh6WENQV3RCUXFUU2d4TFJaOF9sY3VaTG1UYXhkOGNxRWJfb2hNYVBsazN0eVZNOHMwZjJrR0xqeXJFQTk0WnpHTEI0SkNwQThzRmhxR0syNDVGd3ZFd0FSaEhaYVJOcTN3LWRHOG13RWFzY2tqTjJXTzhQaQ?oc=5)
+14. [Russia loses almost half a million lives in war on Ukraine](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5)
 15. [Jensen Huang’s years-long effort to get close to China](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5)
 
 ## 🟠 CNBC (CNBC)
@@ -150,4 +150,4 @@
 15. [FAA lifts ground stop flights, airline stocks fall](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtRM1FEMUtOT21CNXVqR05qWWhhU0ZERVgwbjFzd3RCQjdOdTFfcjE3SWdKaTlJbVRVckpCQmxEWHg3cU9ZRTdVbzBlMkhvSmQ3SjNHTkpfcWhpenJaOU9MdmJSOExUQjhQY3F1a0RfUjVIcVpWcExtS1lueF9jdHJaNXFIX190amh2bDFCVEFZa3IxM2pleEVNR1V5VHZ2dE81eGV1ekRzZw?oc=5)
 
 ---
-*自动生成于 2026-11-14 08:27 UTC*
+*自动生成于 2026-11-14 08:28 UTC*
