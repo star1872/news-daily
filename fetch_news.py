@@ -100,7 +100,7 @@ def generate_markdown(all_data):
         f"# 📰 每日财经新闻摘要",
         f"**更新时间：{now}**",
         "",
-        "> \u6765\u6e90\uff1a" + " · ".join(cfg["name_cn"] for cfg in SOURCES),
+        "> \u6765\u6e90\uff1a" + " · ".join(cfg["name_cn"] for cfg in SOURCES.values()),
         "",
         "---",
         "",
