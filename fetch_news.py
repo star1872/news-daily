@@ -62,6 +62,11 @@ SOURCES = {
         "name_cn": "巴伦周刊",
         "rss": "https://news.google.com/rss/search?q=site%3Abarrons.com&hl=en-US&gl=US&ceid=US:en",
     },
+    "mit_technology_review": {
+        "name": "MIT Technology Review",
+        "name_cn": "\u9ebb\u7701\u7406\u5de5\u79d1\u6280\u8bc4\u8bba",
+        "rss": "https://news.google.com/rss/search?q=site%3Atechnologyreview.com&hl=en-US&gl=US&ceid=US:en",
+    },
     "project_syndicate": {
         "name": "Project Syndicate",
         "name_cn": "Project Syndicate",
