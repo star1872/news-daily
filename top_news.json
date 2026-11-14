@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T12:59:25+00:00",
-  "news_updated": "2026-11-14T12:59:25.536944+00:00",
+  "updated": "2026-11-14T13:05:35+00:00",
+  "news_updated": "2026-11-14T13:05:34.954411+00:00",
   "trends_available": true,
   "events": [
     {
@@ -68,32 +68,31 @@
       ]
     },
     {
-      "title": "'A tough market': Home sales fall to lowest level since 2010 as high mortgage rates paralyze activity",
-      "score": 58,
+      "title": "FAA lifts ground stop flights, airline stocks fall",
+      "score": 59,
       "scores": {
-        "audience_impact": 32,
-        "new_development": 14,
+        "audience_impact": 22,
+        "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
         "市场与投资",
-        "企业经营",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-12T15:03:01+00:00",
-      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-14T02:09:00+00:00",
+      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "yahoofinance",
           "media": "雅虎财经",
-          "title": "'A tough market': Home sales fall to lowest level since 2010 as high mortgage rates paralyze activity",
+          "title": "FAA lifts ground stop flights, airline stocks fall",
           "title_zh": null,
-          "published": "2026-11-12T15:03:01+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb2VRVlZtSG1zNzktLW4wYnVGbnBCd2F6bTRZSXptSmpHeC1ScDhEZHVhX1hKZm9wZTFtOWNrQUU5ZDg5MkhXYlc4M1hHOXduNEI3bkJtS1piQVhmR1JwN2pUMDhkMTFsLXFxVHU3VkVJcE1ZRzRoZm9xSGhRd1FCS3hoY2E5OXdHUEU1QTJkRi1LcmQzcEdZcHNxZm5zVTdnak1wcmNfR0xhMEpzMHZ4d244NzRUdjc4Snk0LWotOFFFdHNndlNTemljTG5LV3huUE5MZ1FfV18xMzRWbFN2ck5hSmRQRVhOaFhqVnRoOHU?oc=5",
+          "published": "2026-11-14T02:09:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtRM1FEMUtOT21CNXVqR05qWWhhU0ZERVgwbjFzd3RCQjdOdTFfcjE3SWdKaTlJbVRVckpCQmxEWHg3cU9ZRTdVbzBlMkhvSmQ3SjNHTkpfcWhpenJaOU9MdmJSOExUQjhQY3F1a0RfUjVIcVpWcExtS1lueF9jdHJaNXFIX190amh2bDFCVEFZa3IxM2pleEVNR1V5VHZ2dE81eGV1ekRzZw?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
