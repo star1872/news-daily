@@ -20,6 +20,8 @@ TOPICS = {
     "货币政策": r"\b(fed|fomc|interest rates?|rate cut|rate hike|central bank)\b",
     "宏观数据": r"\b(inflation|cpi|gdp|payrolls|jobs report|unemployment)\b",
     "企业与产业": r"\b(earnings|revenue|guidance|acquisition|merger|antitrust|chips?|semiconductors?)\b",
+    "市场与投资": r"\b(stocks?|shares?|bonds?|treasury yields?|futures|markets?|investors?|wall street|ipo|bitcoin|funds?)\b",
+    "企业经营": r"\b(profits?|sales|bankruptcy|layoffs|factory|investment|debt|dividends?|buybacks?)\b",
     "贸易与能源": r"\b(tariffs?|sanctions?|export controls?|opec|oil prices?)\b",
 }
 DEVELOPMENT = re.compile(
@@ -290,7 +292,17 @@ def main():
         raise SystemExit("最近 48 小时没有符合条件的报道，保留上次选题。")
 
     trends = load_trends()
-    events = [rank_event(group, trends, now) for group in group_events(articles)]
+    groups = [
+        group for group in group_events(articles)
+        if any(
+            re.search(pattern, article["title"], re.I)
+            for article in group for pattern in TOPICS.values()
+        )
+    ]
+    if not groups:
+        raise SystemExit("最近 48 小时没有匹配财经主题的报道，保留上次选题。")
+
+    events = [rank_event(group, trends, now) for group in groups]
     events.sort(key=lambda item: (item["score"], item["latest_published"]), reverse=True)
     output = {
         "updated": now.isoformat(timespec="seconds"),
