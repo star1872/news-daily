@@ -1,97 +1,97 @@
 {
-  "updated": "2026-11-15T06:06:25+00:00",
-  "news_updated": "2026-11-15T06:06:24.873686+00:00",
+  "updated": "2026-11-15T18:44:23+00:00",
+  "news_updated": "2026-11-15T18:44:23.570052+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Cisco Stock Falls After Earnings Beat Fails to Ease Long-Term Concerns",
-      "score": 58,
+      "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% - Bloomberg.com",
+      "score": 60,
       "scores": {
         "audience_impact": 32,
-        "new_development": 14,
-        "video_potential": 12,
+        "new_development": 15,
+        "video_potential": 13,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "企业与产业",
         "市场与投资",
+        "企业经营",
         "1 家媒体报道",
-        "标题包含具体进展"
+        "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-13T15:19:00+00:00",
-      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-15T12:30:00+00:00",
+      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "barrons",
-          "media": "巴伦周刊",
-          "title": "Cisco Stock Falls After Earnings Beat Fails to Ease Long-Term Concerns",
+          "source": "bloomberg",
+          "media": "彭博社",
+          "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% - Bloomberg.com",
           "title_zh": null,
-          "published": "2026-11-13T15:19:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUhmWGFldFYxS1lXZUZhbjJQa2lkWk5OejFaODlTNjZBMG9UUHEtOUNzcnJlUGR6MFRSenR6YTBPWGktVm5ZMnJ5LUJ5SDhDdFZ1RDl3RUVXVU1YNk92ZGVvVHRMWnVadHQ0bHRrcGhKbUozeXVpQWtDdEFydUJ2SzJZcWtUbkE?oc=5",
+          "published": "2026-11-15T12:30:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm16MVNnOTJvY2hpMU1mbmlVMDhfLWNoSjI1Q0hPLUdvU2hkSF9QVzBmMkZ2UmNYcTdHS3p5dDE3NWxzVlpsd0tCVlhOTUlQaEFzaC1JWTg0N0R0cFNFVWxPYVBMOUZjWUc1N243WlY5RWlJTVNxWWV2VVhBV2dUczVucXpQbm5BZVl2alptOEVwTVNmRzJqLUQwb01HVlJuXzdEclQ1MkR6QXRYNGZ5enljd0U?oc=5",
           "publisher_url": null,
-          "rss_excerpt": ""
+          "rss_excerpt": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% Bloomberg.com"
         }
       ]
     },
     {
-      "title": "FAA lifts ground stop flights, airline stocks fall",
-      "score": 48,
+      "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day",
+      "score": 50,
       "scores": {
         "audience_impact": 22,
-        "new_development": 14,
-        "video_potential": 12,
+        "new_development": 15,
+        "video_potential": 13,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
         "市场与投资",
         "1 家媒体报道",
-        "标题包含具体进展"
+        "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-14T02:09:00+00:00",
+      "latest_published": "2026-11-15T13:07:32+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "yahoofinance",
           "media": "雅虎财经",
-          "title": "FAA lifts ground stop flights, airline stocks fall",
+          "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day",
           "title_zh": null,
-          "published": "2026-11-14T02:09:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtRM1FEMUtOT21CNXVqR05qWWhhU0ZERVgwbjFzd3RCQjdOdTFfcjE3SWdKaTlJbVRVckpCQmxEWHg3cU9ZRTdVbzBlMkhvSmQ3SjNHTkpfcWhpenJaOU9MdmJSOExUQjhQY3F1a0RfUjVIcVpWcExtS1lueF9jdHJaNXFIX190amh2bDFCVEFZa3IxM2pleEVNR1V5VHZ2dE81eGV1ekRzZw?oc=5",
+          "published": "2026-11-15T13:07:32+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVjJKRThIRnJiTkxmT2NTMlJKbjhMWXhOSlhVcWRDUFNwYXRwUUlwRzJYZ1lJWFpqOVk0RUFqTFRtdmY3cVNscUxMRDVyVFFnLUxfdFoxX29KeW1iODB1d0cwVlVObjlIU3RvaUdDMFpJUzd5OXhfZUZCWkhKZkFRMEl6M3o2S2tIbkVVdngzVE5wcDR2d0Q4eWFqVXZScGlPQmFTTTNsdExXNWNDZXlXdF9UQ3ZfX3lweU1aMU9FOWthV1pYNEJabUNvb0Fna2dnM000dUdJbEFTOWU4UHhtZTExU1VqSi00V2EzUWwyemk3R3FlN3pEeWo1Uy1nU0V5ODhSMlh0SG1pMXpZS2FYLUJ1V1FtLTZDSnFOS3RB?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "Bitcoin is now below $68,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "score": 48,
+      "title": "Preferred Stocks Are Yielding Up to 8% After a Selloff. Why It’s a Buying Opportunity.",
+      "score": 50,
       "scores": {
         "audience_impact": 22,
-        "new_development": 14,
-        "video_potential": 12,
+        "new_development": 15,
+        "video_potential": 13,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
         "市场与投资",
         "1 家媒体报道",
-        "标题包含具体进展"
+        "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-13T21:26:00+00:00",
+      "latest_published": "2026-11-15T11:30:00+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "marketwatch",
-          "media": "MarketWatch",
-          "title": "Bitcoin is now below $68,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "Preferred Stocks Are Yielding Up to 8% After a Selloff. Why It’s a Buying Opportunity.",
           "title_zh": null,
-          "published": "2026-11-13T21:26:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWY1S3lwODdSRDlsR3F2Z181UE1HZUhWOWZEckxNVUZ3azFpOU9zVldJeENrS0VYYlVOWmRsTndGU3NBSXlKNmpRbXlkRGNtS2ltS0Z3RTR0QUlWQVRfYmNBNzZwUl9pTXp3ak1CeTV0cjNwcHZoT1BWaFIwTmxWNlpfRHJRT21aeE13YVgzRTJsSW5IOTJjRjYwSTRiNm5iNU8xUnA3WE9lQklUd2Y0M1JOVjFkTUxRV1Exd2xuVnFSclF2?oc=5",
+          "published": "2026-11-15T11:30:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb2d5WjlTOGJpSWNEd2twZ2p0bFVTTExBQ01IVzFCV0pPOFpWWk9lX0ZBVDc4QnRHV25jLVZJVXdkSm1CNjNsX0kxdE93X0tnZGNvRGFZOVA0M0RVNE5GdGxCV2w5RlZtdEMzaFRsZWllVUhpYXRDVzU3UDhiVk8xRjZB?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
