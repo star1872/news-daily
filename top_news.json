@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-16T21:55:08+00:00",
-  "news_updated": "2026-11-16T21:55:08.726656+00:00",
+  "updated": "2026-11-17T07:41:25+00:00",
+  "news_updated": "2026-11-17T07:41:25.619728+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Tesla Stocks Fall 2.8% as SpaceX Merger Talk Turns to Who Buys Whom",
-      "score": 77,
+      "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops",
+      "score": 63,
       "scores": {
         "audience_impact": 32,
-        "new_development": 25,
-        "video_potential": 20,
+        "new_development": 19,
+        "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
@@ -17,30 +17,29 @@
         "企业与产业",
         "市场与投资",
         "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
+        "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-16T17:53:56+00:00",
+      "latest_published": "2026-11-16T19:10:34+00:00",
       "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "yahoofinance",
           "media": "雅虎财经",
-          "title": "Tesla Stocks Fall 2.8% as SpaceX Merger Talk Turns to Who Buys Whom",
+          "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops",
           "title_zh": null,
-          "published": "2026-11-16T17:53:56+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmFYREZneWpCSnZ5RGx6aHZZaHdwQkVrdnZfdy1ab1pucGswZ05uWUx0ODJYM25YeFRMWGo4TU9ZNWd0MzMtT2N0emg0M21BSmFCWXJHbWR6XzRPVHZHeWc1ai0wYmxYdHd0ZnRzNkpCWkVicTFsNk01RDdpaFlZLURtWlpZSDVxT0VobHdiYw?oc=5",
+          "published": "2026-11-16T19:10:34+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-      "score": 69,
+      "title": "Here's what to expect when Disney reports earnings before the bell",
+      "score": 59,
       "scores": {
-        "audience_impact": 32,
+        "audience_impact": 22,
         "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
@@ -48,53 +47,51 @@
       },
       "reasons": [
         "企业与产业",
-        "市场与投资",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-16T18:54:00+00:00",
-      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-17T05:01:01+00:00",
+      "video_angle": "围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "marketwatch",
-          "media": "MarketWatch",
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+          "source": "cnbc",
+          "media": "CNBC",
+          "title": "Here's what to expect when Disney reports earnings before the bell",
           "title_zh": null,
-          "published": "2026-11-16T18:54:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
+          "published": "2026-11-17T05:01:01+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13cUplUFlDd0x3cU5kRzhQNUxqcHAyY1ZqaU5vUHFNQk5OVk9aZm5CQU50RklnUkdwcFZBRjduYkhyWVU4LUF3a2RTbEI5M2tKcGVrNVRUNnllSURRTWplUE9lRnJ1aDRJN282OWpNak_SAXZBVV95cUxPVzlIbVV4QnZlc0tMU0N4clc5VzhvWTVWWmJqRGRFQ19VMUxUU0oza3dWcWVSc180MjRoY1NHWnZIcmlXa0pMRFZVUE5rODB5NGV3WjJKdWNFLXlJOXRqZ2JrckYzRjRPY0VaTngwWnVmQUFaQ0JR?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027",
-      "score": 69,
+      "title": "Nvidia to report Q3 earnings amid Huang scandal",
+      "score": 59,
       "scores": {
-        "audience_impact": 32,
+        "audience_impact": 22,
         "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "货币政策",
-        "市场与投资",
+        "企业与产业",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-16T11:00:00+00:00",
-      "video_angle": "围绕货币政策、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-16T21:18:59+00:00",
+      "video_angle": "围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "barrons",
-          "media": "巴伦周刊",
-          "title": "Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027",
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "Nvidia to report Q3 earnings amid Huang scandal",
           "title_zh": null,
-          "published": "2026-11-16T11:00:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf?oc=5",
+          "published": "2026-11-16T21:18:59+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGhYaS1ZSloxYlVnRV9hQ0MyWVdfZU44cnI3dmRqRXAwSURBS2VxeGJZcExTV003YUxoMjNrelRscG9mWGVZM19yRmpRN0JhU09OWWc1bUZYZU1vRlBFeG0xM2VfVGRiLXBIS0lwZTZLd0ZBaldWVVJUS05BWU1sQkdFTU1yM3lIaTMzVnh3cVo0MmpRS2s3WDFmbGpTNzhWaVdGdlB0LW9JVUE?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
