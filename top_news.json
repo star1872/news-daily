@@ -1,14 +1,46 @@
 {
-  "updated": "2026-11-18T07:04:47+00:00",
-  "news_updated": "2026-11-18T07:04:47.560251+00:00",
+  "updated": "2026-11-18T20:21:51+00:00",
+  "news_updated": "2026-11-18T20:21:51.757986+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
-      "score": 71,
+      "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+      "score": 69,
       "scores": {
         "audience_impact": 32,
-        "new_development": 19,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "企业与产业",
+        "市场与投资",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-18T15:12:33+00:00",
+      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+          "title_zh": null,
+          "published": "2026-11-18T15:12:33+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
+      "score": 66,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 14,
         "video_potential": 20,
         "source_coverage": 0,
         "search_trend": 0
@@ -37,64 +69,31 @@
       ]
     },
     {
-      "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
-      "score": 69,
+      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+      "score": 59,
       "scores": {
-        "audience_impact": 32,
+        "audience_impact": 22,
         "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "市场与投资",
         "企业经营",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-18T04:58:00+00:00",
-      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-18T16:30:02+00:00",
+      "video_angle": "围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "bloomberg",
-          "media": "彭博社",
-          "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+          "source": "ft",
+          "media": "金融时报",
+          "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
           "title_zh": null,
-          "published": "2026-11-18T04:58:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
-      "score": 69,
-      "scores": {
-        "audience_impact": 32,
-        "new_development": 25,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业与产业",
-        "市场与投资",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-18T04:04:00+00:00",
-      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "cnbc",
-          "media": "CNBC",
-          "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
-          "title_zh": null,
-          "published": "2026-11-18T04:04:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUUJPejlwZHBQYmxGcGU1ckJDbG1WOC1GZzJyV3p4a3F0VWRDZWZqNVN6ZWludjhIVmxqejA3VFhPSmJ1QUFUcHJGVm9aelBCTUNhOGZNdW5CbDh1ajZkQjNFTVkyaWpFVE9QMXlXejFEX2llNlhz0gF8QVVfeXFMTWwtR0N6UWNpRW5hNkVKTjNyOHhIZGg4aVFOazE3Z2VxbnJEdXhPUElZcEtDR3QzbjZyeUtxLTVvT0JzTW1yZWRkNXJoUy1XXzE3NjExcThhZ0VlbnpHY29EVk8za0ZqVGJVbm05YkhkU19Ha0J4c0VwZV90dA?oc=5",
+          "published": "2026-11-18T16:30:02+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGFrYkhyamZWUXowT1czZjBKTU95elhKNWhEQ2hrdnp5ZE5uQWFjRzhwTGhrdEduam1tOVVEVFN5WkNaMDNaVjVlZFFWTHJjdC1rSEFMRVF0RVZMcFVxdVJOUVdQeVUzWDZoc2pjRFZkYVNQYmprNlFmVkx3N0twSVhYa3I?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
