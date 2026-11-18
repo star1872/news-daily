@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-17T20:45:39+00:00",
-  "news_updated": "2026-11-17T20:45:39.328849+00:00",
+  "updated": "2026-11-18T07:04:47+00:00",
+  "news_updated": "2026-11-18T07:04:47.560251+00:00",
   "trends_available": true,
   "events": [
     {
       "title": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
-      "score": 77,
+      "score": 71,
       "scores": {
         "audience_impact": 32,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 20,
         "source_coverage": 0,
         "search_trend": 0
@@ -37,11 +37,43 @@
       ]
     },
     {
-      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-      "score": 63,
+      "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+      "score": 69,
       "scores": {
         "audience_impact": 32,
-        "new_development": 19,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "企业经营",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-18T04:58:00+00:00",
+      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "bloomberg",
+          "media": "彭博社",
+          "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+          "title_zh": null,
+          "published": "2026-11-18T04:58:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+      "score": 69,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
@@ -53,49 +85,18 @@
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-16T21:17:00+00:00",
+      "latest_published": "2026-11-18T04:04:00+00:00",
       "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "marketwatch",
-          "media": "MarketWatch",
-          "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+          "source": "cnbc",
+          "media": "CNBC",
+          "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
           "title_zh": null,
-          "published": "2026-11-16T21:17:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzJiOHRPNHFvdUhKTGlYRXJxeUgtSXJrdlQ3Tk0xLXI4d3RkOXpsNXFyaTh3ZHdPMGI4bGxJQ2dVS1hjOFVQVkh5clBOQlFkUEFTak1XWGlza19SYjJ0QWlQb1ZvRUE2OVV4VUFVSmZZWHlPVWVsYjlWSVlTMEtXZ1hnVEFaYkJuODdVWWo1MWRxa2hraWFyQmttX2RVNWp2LUlUSWdfNEZMR3NfQmFqenBib3MxaUNpOFE?oc=5",
+          "published": "2026-11-18T04:04:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUUJPejlwZHBQYmxGcGU1ckJDbG1WOC1GZzJyV3p4a3F0VWRDZWZqNVN6ZWludjhIVmxqejA3VFhPSmJ1QUFUcHJGVm9aelBCTUNhOGZNdW5CbDh1ajZkQjNFTVkyaWpFVE9QMXlXejFEX2llNlhz0gF8QVVfeXFMTWwtR0N6UWNpRW5hNkVKTjNyOHhIZGg4aVFOazE3Z2VxbnJEdXhPUElZcEtDR3QzbjZyeUtxLTVvT0JzTW1yZWRkNXJoUy1XXzE3NjExcThhZ0VlbnpHY29EVk8za0ZqVGJVbm05YkhkU19Ha0J4c0VwZV90dA?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports - WSJ",
-      "score": 59,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 25,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业与产业",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-17T12:44:00+00:00",
-      "video_angle": "围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "wsj",
-          "media": "华尔街日报",
-          "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports - WSJ",
-          "title_zh": null,
-          "published": "2026-11-17T12:44:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeF9JY19jOUZEZ2t6ZTY5QnBmQ0hSVV91VFY4TGlYN3BnV1ZHSGhZS21MdU1MTlVJZTBjeEduTVpSUTFvcHZ4OXBqYXQyUnpMV2VpeFpMWFcxWXZULWFsM1ZvY2FJTUNzbkRLZTFPdXBYTS1EMVZzLWJkTk85bkJsMjZabEcyVXVHaFEzdmFKbVlTUjZoMDg2a3VUQU9vbURNSzZLUUw3eXNDVzBKSXdrVTNsVVhXX1VOR3E3X2l2MklXLVBjU3lRY2J1WWo?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports WSJ"
         }
       ]
     }
