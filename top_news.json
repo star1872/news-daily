@@ -1,14 +1,78 @@
 {
-  "updated": "2026-11-18T20:21:51+00:00",
-  "news_updated": "2026-11-18T20:21:51.757986+00:00",
+  "updated": "2026-11-19T07:05:20+00:00",
+  "news_updated": "2026-11-19T07:05:20.723742+00:00",
   "trends_available": true,
   "events": [
     {
+      "title": "Anthropic Raises $3 Billion in Japan Tranche of US Mega IPO - Bloomberg.com",
+      "score": 67,
+      "scores": {
+        "audience_impact": 22,
+        "new_development": 25,
+        "video_potential": 20,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "1 家媒体报道",
+        "标题包含具体进展",
+        "标题含可核对的量化信息"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-19T01:42:00+00:00",
+      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "bloomberg",
+          "media": "彭博社",
+          "title": "Anthropic Raises $3 Billion in Japan Tranche of US Mega IPO - Bloomberg.com",
+          "title_zh": null,
+          "published": "2026-11-19T01:42:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV19qTVRLN1dWXzV4SkR0enVfY2hHMkNJWEpPajMxMlpGOUNTNkR3Q25rZDF2dmItNE9waVhOQ05EMWliV2hqS1BKRi01WTB6bFhqbnpjUE56aHVhZ1J1b01GeEhCUnRMWE8wX3QxTkxkd0RmRXliUzhSVmRSOGZkV292djZTRVRkNEM5VkRxdnJYVHFpRDZFdTNQblJ3d2JURmpQNlpOenF4X1NYamc?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": "Anthropic Raises $3 Billion in Japan Tranche of US Mega IPO Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation",
+      "score": 67,
+      "scores": {
+        "audience_impact": 22,
+        "new_development": 25,
+        "video_potential": 20,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "1 家媒体报道",
+        "标题包含具体进展",
+        "标题含可核对的量化信息"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-18T21:26:00+00:00",
+      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "reuters",
+          "media": "路透社",
+          "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation",
+          "title_zh": null,
+          "published": "2026-11-18T21:26:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
       "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-      "score": 69,
+      "score": 63,
       "scores": {
         "audience_impact": 32,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
@@ -30,70 +94,6 @@
           "title_zh": null,
           "published": "2026-11-18T15:12:33+00:00",
           "rss_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
-      "score": 66,
-      "scores": {
-        "audience_impact": 32,
-        "new_development": 14,
-        "video_potential": 20,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业与产业",
-        "市场与投资",
-        "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-17T15:25:07+00:00",
-      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "yahoofinance",
-          "media": "雅虎财经",
-          "title": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
-          "title_zh": null,
-          "published": "2026-11-17T15:25:07+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemxDWTVXV3JMNXZZSVFPM1hRaW1TUmxCaWlXYU90MWFoTTRtWF9UYndOSGI2UUVZeFhLc0NyeFBELUtqM0J0UlpjSUhxWG5rYm11VUc1VkZObVItTjdRZkZMemlHV3NHM3Z2MS1RWmtOZ1BjLXlOdlh5YzQ2bG5yRDhxYzlFb0lOLTFiTTZnZGJ4Z2dvS3hKMXRKVE13aTBsaW5UUy0yRVFOUnVyVWUwbXhsMXBCcFExcjRiMUN5cEhxTV90aWNmdndzaDNVNS1vbjNhYWNrb19sMmJUOU83VHhfNExvNHZrckxTU1VVbw?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
-      "score": 59,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 25,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业经营",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-18T16:30:02+00:00",
-      "video_angle": "围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "ft",
-          "media": "金融时报",
-          "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
-          "title_zh": null,
-          "published": "2026-11-18T16:30:02+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGFrYkhyamZWUXowT1czZjBKTU95elhKNWhEQ2hrdnp5ZE5uQWFjRzhwTGhrdEduam1tOVVEVFN5WkNaMDNaVjVlZFFWTHJjdC1rSEFMRVF0RVZMcFVxdVJOUVdQeVUzWDZoc2pjRFZkYVNQYmprNlFmVkx3N0twSVhYa3I?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
