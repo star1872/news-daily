@@ -1,10 +1,74 @@
 {
-  "updated": "2026-11-20T06:56:38+00:00",
-  "news_updated": "2026-11-20T06:56:38.400438+00:00",
+  "updated": "2026-11-20T19:56:59+00:00",
+  "news_updated": "2026-11-20T19:56:58.956484+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+      "title": "Intuit Earnings Beat Isn’t Enough to Boost the Stock",
+      "score": 69,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "企业与产业",
+        "市场与投资",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-20T10:34:00+00:00",
+      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "Intuit Earnings Beat Isn’t Enough to Boost the Stock",
+          "title_zh": null,
+          "published": "2026-11-20T10:34:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdVlFRGdFQUNhZ3BZVEVLejJSeEhCS1JJX1dZQUlzREZ1SmFibEZqZ1Q3QlhRV0JSMng4NHdEWHhfd0FKNlB2dVB3U0laTWlEVEZqRTJYeGdBWG5XQWItMi04UkZObTVkMnJmemRaNzRnWHVJbm9NSg?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold - Bloomberg.com",
+      "score": 69,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "企业经营",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-20T08:54:50+00:00",
+      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "bloomberg",
+          "media": "彭博社",
+          "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold - Bloomberg.com",
+          "title_zh": null,
+          "published": "2026-11-20T08:54:50+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPand6WXl4NmpONmlVSzN4ZEJyT1RvYnVJY21WNGFwQlFRam1HMXFRa3h4bW1ucG9fcHVQZlpaclVwaE1odUZTeHFQa3U5VjRETkJham9OZWNsd3Y1ZElSeUE2MEdLa0lGaTF6Um9wdjg5VGNzQklHWFFuSm1sZ0RYNXAxSFprNkxSZ0ZrYjdKd0tzdjQ1V2tMRzdBV1hzV19ZeC1yQ3lDY2t1aElXeEhqbC1lVQ?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
       "score": 67,
       "scores": {
         "audience_impact": 22,
@@ -20,81 +84,18 @@
         "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-19T21:45:00+00:00",
+      "latest_published": "2026-11-20T18:18:00+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "marketwatch",
-          "media": "MarketWatch",
-          "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
           "title_zh": null,
-          "published": "2026-11-19T21:45:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEJ3VzdMRnFXV3ZlNU1Kc0NHZ0toc2w3aFRGSFF5QkFCYmRTQUVGOW9YVE52UE9nLWR4U1JSZmF0R0h6aUNjREs4VGVyZ1NaZkhOdGhzQ0ZQbEdHQTlrU1VuaEFMMDlQdE1YdVdRYTdtaVp2UWQtX3hZMjBVLXQ4Z1VuTDRabnRRTnl4Zy1GZlA5QW52cTJIcGw1SnBZZ2VmQ01GYVUxQWNzSzEzelctbkhWX2w?oc=5",
+          "published": "2026-11-20T18:18:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "AMD stock drops after Hunterbrook Media raises export control concerns",
-      "score": 63,
-      "scores": {
-        "audience_impact": 32,
-        "new_development": 19,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "市场与投资",
-        "贸易与能源",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-19T18:48:07+00:00",
-      "video_angle": "围绕市场与投资、贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "yahoofinance",
-          "media": "雅虎财经",
-          "title": "AMD stock drops after Hunterbrook Media raises export control concerns",
-          "title_zh": null,
-          "published": "2026-11-19T18:48:07+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Asian Stocks Set to Fall as AI Enthusiasm Fades: Markets Wrap - Bloomberg.com",
-      "score": 59,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 25,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "市场与投资",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-20T06:02:00+00:00",
-      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "bloomberg",
-          "media": "彭博社",
-          "title": "Asian Stocks Set to Fall as AI Enthusiasm Fades: Markets Wrap - Bloomberg.com",
-          "title_zh": null,
-          "published": "2026-11-20T06:02:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": "Asian Stocks Set to Fall as AI Enthusiasm Fades: Markets Wrap Bloomberg.com"
         }
       ]
     }
