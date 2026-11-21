@@ -1,38 +1,28 @@
 {
-  "updated": "2026-11-21T06:52:20+00:00",
-  "news_updated": "2026-11-21T06:52:20.670864+00:00",
+  "updated": "2026-11-21T19:02:16+00:00",
+  "news_updated": "2026-11-21T19:02:16.292886+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
-      "score": 70,
+      "title": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation - WSJ",
+      "score": 61,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 20,
-        "source_coverage": 3,
+        "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
         "市场与投资",
-        "2 家媒体报道",
+        "1 家媒体报道",
         "标题包含具体进展",
         "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-20T23:41:13+00:00",
+      "latest_published": "2026-11-20T22:50:00+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
-        {
-          "source": "reuters",
-          "media": "路透社",
-          "title": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
-          "title_zh": null,
-          "published": "2026-11-20T23:41:13+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRS1RakZnNDMzSzNQMW5Yb3BfckxrRE5DQnlYWFRpVkRKUGc2SmtEU241dGtTYjIzY3ZvUktrOWVHbkFxanJ2M21sc2dxaFFTdDljaTZtaV9yWUN4LThySTQtdmpBUEZfQjF3a29WVjJGRnRjdXdGa1R0Y2kyclZRNkhLMEtnVnppczRZOGRfdi04emFPWTNtVXdpYmRvUXFkdzVYUUhIYjZrWXNzVllsNE1JNzdxd0U2ZEhGSnVwMzBfQQ?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        },
         {
           "source": "wsj",
           "media": "华尔街日报",
@@ -46,43 +36,11 @@
       ]
     },
     {
-      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-      "score": 67,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 25,
-        "video_potential": 20,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "市场与投资",
-        "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-20T21:11:32+00:00",
-      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "cnbc",
-          "media": "CNBC",
-          "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-          "title_zh": null,
-          "published": "2026-11-20T21:11:32+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbG40b2dZUnJ5anJZeTMyRklTamZPSGJERV9WMURmc084Sm1hWkpzSGJlbllnUUN6X0NfZWt3SURiTVA2dzYySUxvS3ZGcXdaRU9ldjhJeWVrWmZKU3dSQU5xMHJ4MEZSbEx0alFn0gFzQVVfeXFMTkE5VXlxajNUVW9MczFVNnBSNGFnbGIxVVctMGlKc3lBei1xbkZ5R1VmME04eXhRU1duZlZYa0hoa1ZiVVV1WFpSUTlRSHM5SHQwUkQyZzZMNnF2TUtfRU5BN0ZaMFNtdVhMQVluZENNeVl0cw?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
       "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-      "score": 67,
+      "score": 61,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 20,
         "source_coverage": 0,
         "search_trend": 0
@@ -104,6 +62,37 @@
           "title_zh": null,
           "published": "2026-11-20T20:17:02+00:00",
           "rss_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNek83Um5vdUVIV3dWb2FVZlZSemZJUmh3Zkt6cUxiYUgxVjJzS3k4Z3lRWEhFRzZ4THRWVTlvSzR6TFVPaDVLYVlIV2Q1alRwODNZNndjQnctNFNmcTJGamk1LWR2bl9oMktRWThaeURldFFJRnowaXE4Nzd1T2hUaFpDSVQ2dlZ1TEVVU3EzOXg1STRmWmRQbDZRNU8?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
+      "score": 59,
+      "scores": {
+        "audience_impact": 22,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "贸易与能源",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-21T12:59:16+00:00",
+      "video_angle": "围绕贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "reuters",
+          "media": "路透社",
+          "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
+          "title_zh": null,
+          "published": "2026-11-21T12:59:16+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
