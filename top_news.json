@@ -1,98 +1,95 @@
 {
-  "updated": "2026-11-21T19:02:16+00:00",
-  "news_updated": "2026-11-21T19:02:16.292886+00:00",
+  "updated": "2026-11-22T06:26:15+00:00",
+  "news_updated": "2026-11-22T06:26:15.462787+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation - WSJ",
-      "score": 61,
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "score": 48,
       "scores": {
         "audience_impact": 22,
-        "new_development": 19,
-        "video_potential": 20,
+        "new_development": 14,
+        "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
         "市场与投资",
         "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
+        "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-20T22:50:00+00:00",
-      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "wsj",
-          "media": "华尔街日报",
-          "title": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation - WSJ",
-          "title_zh": null,
-          "published": "2026-11-20T22:50:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlI3WDRaRWc2bGliV0g4WXhMSEx5UVdSQmNiVDJFUkt6UjZIQkVQckduc0pLRkEwWmtRY21XRUZFY3NETDRZM2NiQ05KV2FLeVBRdFhaY0dLdENCdXN2RzRIU2Jvd2dJZUJTQmlFR1JLNHljWUxoNzR1OE1aVkp6QmF1Y1Rzbk5vVm1aSVdMblFiS2NrYkFjNExBeU1GWk1KS1p3WQ?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation WSJ"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-      "score": 61,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 19,
-        "video_potential": 20,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "市场与投资",
-        "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-20T20:17:02+00:00",
+      "latest_published": "2026-11-20T20:36:54+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "yahoofinance",
           "media": "雅虎财经",
-          "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
+          "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
           "title_zh": null,
-          "published": "2026-11-20T20:17:02+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNek83Um5vdUVIV3dWb2FVZlZSemZJUmh3Zkt6cUxiYUgxVjJzS3k4Z3lRWEhFRzZ4THRWVTlvSzR6TFVPaDVLYVlIV2Q1alRwODNZNndjQnctNFNmcTJGamk1LWR2bl9oMktRWThaeURldFFJRnowaXE4Nzd1T2hUaFpDSVQ2dlZ1TEVVU3EzOXg1STRmWmRQbDZRNU8?oc=5",
+          "published": "2026-11-20T20:36:54+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEx6c1BUSEpEMUF5OHd4d3prVHYwYnJxdzNWbTdvNl80QWVOaWZHX2F1UVFxTy1UQU9pMmhLdzVfTk9zSS1mWElBR0lWdDExWkNINEtNemJSZmQxcUhxWXlwN01RaHBBZGVmcHNnek1jSEZVQUVuaEx3VXFBS1VkV3hIcWpxRC1IcnNOLURVa1RsdVQxLUE?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
-      "score": 59,
+      "title": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+      "score": 48,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 14,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "贸易与能源",
+        "企业与产业",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-21T12:59:16+00:00",
-      "video_angle": "围绕贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-20T16:55:18+00:00",
+      "video_angle": "围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+          "title_zh": null,
+          "published": "2026-11-20T16:55:18+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWVyUXhORkRBbDBpcndSaERrVFBMeWdXZmg5R21oTGlFbWkyOEZ5M19qMjdpZk05dFVtNHd1Q0Z2RjlBYTZuUEhWVmwwb2lmLUZXZVo3TmN5TTFKTGRyUnRoVUdWSHVJeWJxWjZQZHhFSTB1MmdxOFp3TXNGdXBxVXo4SzljRFlHRmt2Z1RkVFBWV3pKcmN4RUJEZDRCRnlITjlOSTlWUQ?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Indonesia rescuers search for 36 missing after factory fire kills 3",
+      "score": 42,
+      "scores": {
+        "audience_impact": 22,
+        "new_development": 15,
+        "video_potential": 5,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "企业经营",
+        "1 家媒体报道"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-22T03:56:00+00:00",
+      "video_angle": "围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "reuters",
           "media": "路透社",
-          "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
+          "title": "Indonesia rescuers search for 36 missing after factory fire kills 3",
           "title_zh": null,
-          "published": "2026-11-21T12:59:16+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
+          "published": "2026-11-22T03:56:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }

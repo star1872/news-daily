@@ -1,31 +1,30 @@
 # 财经口播候选
 
-更新时间（UTC） 2026-11-21T19:02:16+00:00
+更新时间（UTC） 2026-11-22T06:26:15+00:00
 
 每次最多保留三条。报道摘录来自 RSS，制作视频前请查阅报道正文。
 
-## 1. Exclusive \| Databricks In Early Talks To Raise Funds At $225 Billion Valuation \- WSJ
+## 1. Nvidia Shares Sink to 52\-Week Low After Report SEC Is Probing Accounting
 
-**61 分** · 市场与投资、1 家媒体报道、标题包含具体进展、标题含可核对的量化信息
-
-围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。
-
-- **华尔街日报** · Exclusive \| Databricks In Early Talks To Raise Funds At $225 Billion Valuation \- WSJ · [Google News 入口](<https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlI3WDRaRWc2bGliV0g4WXhMSEx5UVdSQmNiVDJFUkt6UjZIQkVQckduc0pLRkEwWmtRY21XRUZFY3NETDRZM2NiQ05KV2FLeVBRdFhaY0dLdENCdXN2RzRIU2Jvd2dJZUJTQmlFR1JLNHljWUxoNzR1OE1aVkp6QmF1Y1Rzbk5vVm1aSVdMblFiS2NrYkFjNExBeU1GWk1KS1p3WQ?oc=5>)
-  - RSS 摘录 · Exclusive \| Databricks In Early Talks To Raise Funds At $225 Billion Valuation WSJ
-
-## 2. Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting\. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2\.7 Trillion Since October
-
-**61 分** · 市场与投资、1 家媒体报道、标题包含具体进展、标题含可核对的量化信息
+**48 分** · 市场与投资、1 家媒体报道、标题包含具体进展
 
 围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。
 
-- **雅虎财经** · Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting\. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2\.7 Trillion Since October · [Google News 入口](<https://news.google.com/rss/articles/CBMinAFBVV95cUxNek83Um5vdUVIV3dWb2FVZlZSemZJUmh3Zkt6cUxiYUgxVjJzS3k4Z3lRWEhFRzZ4THRWVTlvSzR6TFVPaDVLYVlIV2Q1alRwODNZNndjQnctNFNmcTJGamk1LWR2bl9oMktRWThaeURldFFJRnowaXE4Nzd1T2hUaFpDSVQ2dlZ1TEVVU3EzOXg1STRmWmRQbDZRNU8?oc=5>)
+- **雅虎财经** · Nvidia Shares Sink to 52\-Week Low After Report SEC Is Probing Accounting · [Google News 入口](<https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEx6c1BUSEpEMUF5OHd4d3prVHYwYnJxdzNWbTdvNl80QWVOaWZHX2F1UVFxTy1UQU9pMmhLdzVfTk9zSS1mWElBR0lWdDExWkNINEtNemJSZmQxcUhxWXlwN01RaHBBZGVmcHNnek1jSEZVQUVuaEx3VXFBS1VkV3hIcWpxRC1IcnNOLURVa1RsdVQxLUE?oc=5>)
 
-## 3. Russia's Wildberries CEO steps down days after EU sanctions, media report
+## 2. Google reportedly cuts Broadcom\-designed TPU plans, eyes more MediaTek chips
 
-**59 分** · 贸易与能源、1 家媒体报道、标题包含具体进展
+**48 分** · 企业与产业、1 家媒体报道、标题包含具体进展
 
-围绕贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。
+围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。
 
-- **路透社** · Russia's Wildberries CEO steps down days after EU sanctions, media report · [Google News 入口](<https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5>)
+- **雅虎财经** · Google reportedly cuts Broadcom\-designed TPU plans, eyes more MediaTek chips · [Google News 入口](<https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWVyUXhORkRBbDBpcndSaERrVFBMeWdXZmg5R21oTGlFbWkyOEZ5M19qMjdpZk05dFVtNHd1Q0Z2RjlBYTZuUEhWVmwwb2lmLUZXZVo3TmN5TTFKTGRyUnRoVUdWSHVJeWJxWjZQZHhFSTB1MmdxOFp3TXNGdXBxVXo4SzljRFlHRmt2Z1RkVFBWV3pKcmN4RUJEZDRCRnlITjlOSTlWUQ?oc=5>)
+
+## 3. Indonesia rescuers search for 36 missing after factory fire kills 3
+
+**42 分** · 企业经营、1 家媒体报道
+
+围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。
+
+- **路透社** · Indonesia rescuers search for 36 missing after factory fire kills 3 · [Google News 入口](<https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5>)
 
