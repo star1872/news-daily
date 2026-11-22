@@ -1,10 +1,72 @@
 {
-  "updated": "2026-11-22T06:26:15+00:00",
-  "news_updated": "2026-11-22T06:26:15.462787+00:00",
+  "updated": "2026-11-22T19:26:21+00:00",
+  "news_updated": "2026-11-22T19:26:21.689513+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+      "score": 52,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 15,
+        "video_potential": 5,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "企业与产业",
+        "市场与投资",
+        "1 家媒体报道"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-22T12:37:21+00:00",
+      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+          "title_zh": null,
+          "published": "2026-11-22T12:37:21+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+      "score": 52,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 15,
+        "video_potential": 5,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "货币政策",
+        "宏观数据",
+        "1 家媒体报道"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-22T10:00:00+00:00",
+      "video_angle": "围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+          "title_zh": null,
+          "published": "2026-11-22T10:00:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VWZnFrS1RVVDVzdUs2TTMyTnJTSFZZbUNHSS0tRGhIUm9DSkU1X2Uyd3JEN2cydFhiV3J2WEFxZ0p2MjVYNGJMd1JNSHBJSFNESmRhM2ZvY1FIUjVQeUJNb3RhWHpCblA1eVVNMnlvMkg5LUdDNEFON0NpZ0tiZ1dBbXVxZG5IbE8zRHAxNXI?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
       "score": 48,
       "scores": {
         "audience_impact": 22,
@@ -19,77 +81,16 @@
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-20T20:36:54+00:00",
+      "latest_published": "2026-11-20T21:43:00+00:00",
       "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "yahoofinance",
-          "media": "雅虎财经",
-          "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
           "title_zh": null,
-          "published": "2026-11-20T20:36:54+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEx6c1BUSEpEMUF5OHd4d3prVHYwYnJxdzNWbTdvNl80QWVOaWZHX2F1UVFxTy1UQU9pMmhLdzVfTk9zSS1mWElBR0lWdDExWkNINEtNemJSZmQxcUhxWXlwN01RaHBBZGVmcHNnek1jSEZVQUVuaEx3VXFBS1VkV3hIcWpxRC1IcnNOLURVa1RsdVQxLUE?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
-      "score": 48,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 14,
-        "video_potential": 12,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业与产业",
-        "1 家媒体报道",
-        "标题包含具体进展"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-20T16:55:18+00:00",
-      "video_angle": "围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "yahoofinance",
-          "media": "雅虎财经",
-          "title": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
-          "title_zh": null,
-          "published": "2026-11-20T16:55:18+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWVyUXhORkRBbDBpcndSaERrVFBMeWdXZmg5R21oTGlFbWkyOEZ5M19qMjdpZk05dFVtNHd1Q0Z2RjlBYTZuUEhWVmwwb2lmLUZXZVo3TmN5TTFKTGRyUnRoVUdWSHVJeWJxWjZQZHhFSTB1MmdxOFp3TXNGdXBxVXo4SzljRFlHRmt2Z1RkVFBWV3pKcmN4RUJEZDRCRnlITjlOSTlWUQ?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Indonesia rescuers search for 36 missing after factory fire kills 3",
-      "score": 42,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 15,
-        "video_potential": 5,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业经营",
-        "1 家媒体报道"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-22T03:56:00+00:00",
-      "video_angle": "围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "reuters",
-          "media": "路透社",
-          "title": "Indonesia rescuers search for 36 missing after factory fire kills 3",
-          "title_zh": null,
-          "published": "2026-11-22T03:56:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5",
+          "published": "2026-11-20T21:43:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
