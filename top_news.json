@@ -1,96 +1,98 @@
 {
-  "updated": "2026-11-22T19:26:21+00:00",
-  "news_updated": "2026-11-22T19:26:21.689513+00:00",
+  "updated": "2026-11-23T07:16:33+00:00",
+  "news_updated": "2026-11-23T07:16:32.878105+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
-      "score": 52,
+      "title": "Gold rises from 14-month low as markets await key US inflation data",
+      "score": 69,
       "scores": {
         "audience_impact": 32,
-        "new_development": 15,
-        "video_potential": 5,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "企业与产业",
-        "市场与投资",
-        "1 家媒体报道"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-22T12:37:21+00:00",
-      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "yahoofinance",
-          "media": "雅虎财经",
-          "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
-          "title_zh": null,
-          "published": "2026-11-22T12:37:21+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
-      "score": 52,
-      "scores": {
-        "audience_impact": 32,
-        "new_development": 15,
-        "video_potential": 5,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "货币政策",
-        "宏观数据",
-        "1 家媒体报道"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-22T10:00:00+00:00",
-      "video_angle": "围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
-        {
-          "source": "barrons",
-          "media": "巴伦周刊",
-          "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
-          "title_zh": null,
-          "published": "2026-11-22T10:00:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VWZnFrS1RVVDVzdUs2TTMyTnJTSFZZbUNHSS0tRGhIUm9DSkU1X2Uyd3JEN2cydFhiV3J2WEFxZ0p2MjVYNGJMd1JNSHBJSFNESmRhM2ZvY1FIUjVQeUJNb3RhWHpCblA1eVVNMnlvMkg5LUdDNEFON0NpZ0tiZ1dBbXVxZG5IbE8zRHAxNXI?oc=5",
-          "publisher_url": null,
-          "rss_excerpt": ""
-        }
-      ]
-    },
-    {
-      "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
-      "score": 48,
-      "scores": {
-        "audience_impact": 22,
-        "new_development": 14,
+        "new_development": 25,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
+        "宏观数据",
         "市场与投资",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-20T21:43:00+00:00",
-      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-23T05:49:00+00:00",
+      "video_angle": "围绕宏观数据、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "barrons",
-          "media": "巴伦周刊",
-          "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
+          "source": "reuters",
+          "media": "路透社",
+          "title": "Gold rises from 14-month low as markets await key US inflation data",
           "title_zh": null,
-          "published": "2026-11-20T21:43:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
+          "published": "2026-11-23T05:49:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": ""
+        }
+      ]
+    },
+    {
+      "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
+      "score": 69,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 25,
+        "video_potential": 12,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "企业经营",
+        "贸易与能源",
+        "1 家媒体报道",
+        "标题包含具体进展"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-23T03:44:00+00:00",
+      "video_angle": "围绕企业经营、贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "wsj",
+          "media": "华尔街日报",
+          "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
+          "title_zh": null,
+          "published": "2026-11-23T03:44:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment WSJ"
+        }
+      ]
+    },
+    {
+      "title": "Financials drag Indian shares down on profit-taking after four-week rally",
+      "score": 52,
+      "scores": {
+        "audience_impact": 32,
+        "new_development": 15,
+        "video_potential": 5,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "企业经营",
+        "1 家媒体报道"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-23T02:37:00+00:00",
+      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "reuters",
+          "media": "路透社",
+          "title": "Financials drag Indian shares down on profit-taking after four-week rally",
+          "title_zh": null,
+          "published": "2026-11-23T02:37:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
