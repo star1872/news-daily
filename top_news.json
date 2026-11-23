@@ -1,98 +1,109 @@
 {
-  "updated": "2026-11-23T07:16:33+00:00",
-  "news_updated": "2026-11-23T07:16:32.878105+00:00",
+  "updated": "2026-11-23T23:45:02+00:00",
+  "news_updated": "2026-11-23T23:45:01.946625+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Gold rises from 14-month low as markets await key US inflation data",
-      "score": 69,
+      "title": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92% - Bloomberg.com",
+      "score": 67,
       "scores": {
-        "audience_impact": 32,
+        "audience_impact": 22,
         "new_development": 25,
-        "video_potential": 12,
+        "video_potential": 20,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "宏观数据",
         "市场与投资",
         "1 家媒体报道",
-        "标题包含具体进展"
+        "标题包含具体进展",
+        "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-23T05:49:00+00:00",
-      "video_angle": "围绕宏观数据、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-23T21:11:15+00:00",
+      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "reuters",
-          "media": "路透社",
-          "title": "Gold rises from 14-month low as markets await key US inflation data",
+          "source": "bloomberg",
+          "media": "彭博社",
+          "title": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92% - Bloomberg.com",
           "title_zh": null,
-          "published": "2026-11-23T05:49:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+          "published": "2026-11-23T21:11:15+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTdRZ3Y2bmlnVlN4X1g5dnR2eW5MZVdmRGhjNVFDWkY5dExvaFJqaWlPOC1uZFNCUm80WlUxR0VTaUJscTZiQThtTWhRdFYxbjVqVVZzY01iVVJkR2JDM3BRSDVJQnpPcmFIdUxHMmxQbm9MakE1TzM1U0dOUjJZcExfRmQzZVk1aWhxMTdXYk1pTU1sN0hUb0VBR2FXaG1hdExmLVI2TElSbEtBZlhXV1B3dw?oc=5",
+          "publisher_url": null,
+          "rss_excerpt": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92% Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "title": "Jensen Huang Returns As Nvidia CEO In Stunning Reversal. Shares Surge More Than 30%.",
+      "score": 67,
+      "scores": {
+        "audience_impact": 22,
+        "new_development": 25,
+        "video_potential": 20,
+        "source_coverage": 0,
+        "search_trend": 0
+      },
+      "reasons": [
+        "市场与投资",
+        "1 家媒体报道",
+        "标题包含具体进展",
+        "标题含可核对的量化信息"
+      ],
+      "trend": null,
+      "latest_published": "2026-11-23T14:43:47+00:00",
+      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "articles": [
+        {
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "Jensen Huang Returns As Nvidia CEO In Stunning Reversal. Shares Surge More Than 30%.",
+          "title_zh": null,
+          "published": "2026-11-23T14:43:47+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRSZkQ2dzVhQVQ3VExJb3JZbEFVUTFKcWI4ZngxdDR1dnBSelVuRFBwejVESlVadDZlSU1VMWxqYUd6amJmNlRpTUhYU25yNE5yWVB4RmpFTFRYaWpRQ0Fnc0FKWlhMTGlPaVNSV0UyRzFmaTNOVmUyUk5VeXYtendMR0xwMzBNN2ZLVHFHdUNjd2RoeDRaSWdOMUc?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
-      "score": 69,
+      "title": "Nvidia Board Reinstates Jensen Huang as CEO - WSJ",
+      "score": 63,
       "scores": {
         "audience_impact": 32,
-        "new_development": 25,
-        "video_potential": 12,
-        "source_coverage": 0,
+        "new_development": 15,
+        "video_potential": 13,
+        "source_coverage": 3,
         "search_trend": 0
       },
       "reasons": [
-        "企业经营",
-        "贸易与能源",
-        "1 家媒体报道",
-        "标题包含具体进展"
+        "企业与产业",
+        "市场与投资",
+        "2 家媒体报道",
+        "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-23T03:44:00+00:00",
-      "video_angle": "围绕企业经营、贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-23T21:31:01+00:00",
+      "video_angle": "围绕企业与产业、市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "wsj",
           "media": "华尔街日报",
-          "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
+          "title": "Nvidia Board Reinstates Jensen Huang as CEO - WSJ",
           "title_zh": null,
-          "published": "2026-11-23T03:44:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
+          "published": "2026-11-23T21:31:01+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMndVRkJQcnJ1a3ZXTmZpQ0t4d3dBUFFUUnRjS1htT0JxSHRYN1pSelFROGsxTkxHWV83R2h3Z1ViRUhuZS1XSVZSR3djWU5ITXJ2SThvN1oxVGRvMVdOZUk4WUU5bndkY1lBR0pOMmJrWG5OQjVQOVZaaXVfMG1FZG53Rjc5bXdW?oc=5",
           "publisher_url": null,
-          "rss_excerpt": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment WSJ"
-        }
-      ]
-    },
-    {
-      "title": "Financials drag Indian shares down on profit-taking after four-week rally",
-      "score": 52,
-      "scores": {
-        "audience_impact": 32,
-        "new_development": 15,
-        "video_potential": 5,
-        "source_coverage": 0,
-        "search_trend": 0
-      },
-      "reasons": [
-        "市场与投资",
-        "企业经营",
-        "1 家媒体报道"
-      ],
-      "trend": null,
-      "latest_published": "2026-11-23T02:37:00+00:00",
-      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
-      "articles": [
+          "rss_excerpt": "Nvidia Board Reinstates Jensen Huang as CEO WSJ"
+        },
         {
-          "source": "reuters",
-          "media": "路透社",
-          "title": "Financials drag Indian shares down on profit-taking after four-week rally",
+          "source": "yahoofinance",
+          "media": "雅虎财经",
+          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
           "title_zh": null,
-          "published": "2026-11-23T02:37:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
+          "published": "2026-11-23T21:14:26+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
