@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T08:10:58+00:00",
-  "news_updated": "2026-11-25T08:10:58.460884+00:00",
+  "updated": "2026-11-25T21:33:45+00:00",
+  "news_updated": "2026-11-25T21:33:45.595646+00:00",
   "trends_available": true,
   "events": [
     {
-      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "title": "PCE Inflation Hits 3.8%. Strong GDP Growth Raises Odds of More Fed Hikes.",
       "score": 77,
       "scores": {
         "audience_impact": 32,
@@ -14,30 +14,30 @@
         "search_trend": 0
       },
       "reasons": [
-        "企业与产业",
-        "企业经营",
+        "货币政策",
+        "宏观数据",
         "1 家媒体报道",
         "标题包含具体进展",
         "标题含可核对的量化信息"
       ],
       "trend": null,
-      "latest_published": "2026-11-24T21:29:03+00:00",
-      "video_angle": "围绕企业与产业、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-25T15:07:00+00:00",
+      "video_angle": "围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "cnbc",
-          "media": "CNBC",
-          "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+          "source": "barrons",
+          "media": "巴伦周刊",
+          "title": "PCE Inflation Hits 3.8%. Strong GDP Growth Raises Odds of More Fed Hikes.",
           "title_zh": null,
-          "published": "2026-11-24T21:29:03+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zMHE5bDhwdEJfa19fcjIxendtcFRoNDQ4OUJRcjlYdVVjN3R4cEZKSVRFTk16VDBPQW1NZXZGRk1yb0FOTm8zSEJUVDQyNU94RUFWaGVuRVZiRWNDajZGOWtPVnYyR1Z0QXl6M3RFcmFUOFnSAXhBVV95cUxOQjBwdGtodEVkTHJEcnZEMzVmRjVPM056UXpSeWtQZnRMQzUyb0p2VWFjeWNEVTZiVW94R1NUZ21zQjVvbVdZRGJ0c0ZrQW5uU2lmcHhpU2wwWEUzTTNpSjUxMU0xc1VmZDNNNU9MSDNJcFNxallNWXM?oc=5",
+          "published": "2026-11-25T15:07:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDV3l4a1ZBY2w0MVpXQnhtVlJtOHJTNm92X093d0NmMHpVT3NlT0M2bzMxM2FLdjI1a1A1VHpJaktUMHJzdkxQckV4clA0REtxckMzVlMzTU9IalAyckFnREowRVl4UkFXMDlpamNseXR1dGZPTlFxX1UzNDVabWM?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
       "score": 69,
       "scores": {
         "audience_impact": 32,
@@ -47,54 +47,54 @@
         "search_trend": 0
       },
       "reasons": [
-        "市场与投资",
-        "企业经营",
+        "货币政策",
+        "宏观数据",
         "1 家媒体报道",
         "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-25T01:11:00+00:00",
-      "video_angle": "围绕市场与投资、企业经营说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-25T19:39:00+00:00",
+      "video_angle": "围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
           "source": "marketwatch",
           "media": "MarketWatch",
-          "title": "Dell’s stock rises as the AI boom helps sales more than double",
+          "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
           "title_zh": null,
-          "published": "2026-11-25T01:11:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY19YVkF0VnFCQkgwbVdKN2JockdfNVVsQVlTRURWWk03ZGlvXzdxTG1CMG93NTVCSm1BZldiYW5MSTlIYVRlTWxoZmpwTzRieGd2NV9uaER5UXVGMkp2Mmw1X0RhQWVpdEdNOFktWUtMMlpQSXotbkh1WmNyWnRqTWxrOHlvbE9VRGNVMUVlMmo0QU1DQllqYVNzQzFMUWVzMW42SWFVTQ?oc=5",
+          "published": "2026-11-25T19:39:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0o1WjBQV3JLSkJlU1VRU0I4SUczYUVfcG1zZEVLU0ZZa1Y3MFJYcHhZWHNtVlVPTWJjcUJYalpFWEFIVkdjNW8xTFkwSG5uUC1YNG0zOVpGcE1GQ1h3UU5YZmxkUEFnWFQ1aTZSVklUSU9EblV0ckVYeEpNaGxIVUpNYlplaDBONHEwSkpPUGdXX2RiUXJQb1lOb0RQdEJwQUwxam0xZjZ5dnJlYUNFM2pZeDZmQVVlNzFDRUZHaWZBQWVCLTBPYUF1VXpXYmxT?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
       ]
     },
     {
-      "title": "EU plans €50 billion tech fund to challenge US and China, FT reports",
-      "score": 67,
+      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+      "score": 69,
       "scores": {
-        "audience_impact": 22,
+        "audience_impact": 32,
         "new_development": 25,
-        "video_potential": 20,
+        "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
       },
       "reasons": [
-        "市场与投资",
+        "货币政策",
+        "宏观数据",
         "1 家媒体报道",
-        "标题包含具体进展",
-        "标题含可核对的量化信息"
+        "标题包含具体进展"
       ],
       "trend": null,
-      "latest_published": "2026-11-25T05:19:00+00:00",
-      "video_angle": "围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。",
+      "latest_published": "2026-11-25T17:31:00+00:00",
+      "video_angle": "围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。",
       "articles": [
         {
-          "source": "reuters",
-          "media": "路透社",
-          "title": "EU plans €50 billion tech fund to challenge US and China, FT reports",
+          "source": "marketwatch",
+          "media": "MarketWatch",
+          "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
           "title_zh": null,
-          "published": "2026-11-25T05:19:00+00:00",
-          "rss_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNwSjZLMGhnbjRUT3dCanR4NUNvbFlkOHpleklINGJuU3p4X1dqQlpTZHYtYm85OTBLSlQ2ZjVudXJrQ2xvazBWN3lydjZXOUdzdjJ0amJ0Ulh5X3dXVEszdTM5QTdlMU9PbkszRmd4djFaLWh1M0FxQ1E5NzJQeDY5QTdSN2lvSGJpNUlUTGlSeVJjeGFzX0xpdlFzbS1GNzlfdDZLMTIwY0E?oc=5",
+          "published": "2026-11-25T17:31:00+00:00",
+          "rss_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXEwWmxfQlloLXRNcENFN0UwSmFNV0Z1VW9aMzNSeGU3ajdlUVlVNUdKMGNDZTk1a3RjNVJ3ZkNyWXQ3YUN1dEZCMmV5allEUDNVd2FoSnBINFRiYTdXTFh4ajFtNm5HUjVBVmJIT3YwYnlzS3lnMUFycDdwSlpRRlRqV01ZMlpmRGZZb0xVOEF2Y2FrdVlMeGVuNWxJZjlaQWZMV2YzTlVmTkpZQmJCRFRfSlU5azVt?oc=5",
           "publisher_url": null,
           "rss_excerpt": ""
         }
