@@ -1,29 +1,28 @@
 # 财经口播候选
 
-更新时间（UTC） 2026-11-26T07:58:27+00:00
+更新时间（UTC） 2026-11-26T21:21:32+00:00
 
 每次最多保留三条。报道摘录来自 RSS，制作视频前请查阅报道正文。
 
-## 1. PCE Inflation Hits 3\.8%\. Strong GDP Growth Raises Odds of More Fed Hikes\.
+## 1. Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer
 
-**71 分** · 货币政策、宏观数据、1 家媒体报道、标题包含具体进展、标题含可核对的量化信息
+**69 分** · 货币政策、贸易与能源、1 家媒体报道、标题包含具体进展
 
-围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。
+围绕货币政策、贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。
 
-- **巴伦周刊** · PCE Inflation Hits 3\.8%\. Strong GDP Growth Raises Odds of More Fed Hikes\. · [Google News 入口](<https://news.google.com/rss/articles/CBMif0FVX3lxTFBDV3l4a1ZBY2w0MVpXQnhtVlJtOHJTNm92X093d0NmMHpVT3NlT0M2bzMxM2FLdjI1a1A1VHpJaktUMHJzdkxQckV4clA0REtxckMzVlMzTU9IalAyckFnREowRVl4UkFXMDlpamNseXR1dGZPTlFxX1UzNDVabWM?oc=5>)
+- **雅虎财经** · Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer · [Google News 入口](<https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5>)
 
-## 2. Asian Stocks Rise as Investors Shrug Off U\.S\. Tariff Plan \- WSJ
+## 2. Stock Futures Rise as Dow’s Rebound Goes Global\. It Bodes Well for Black Friday Trading\.
 
-**69 分** · 市场与投资、贸易与能源、1 家媒体报道、标题包含具体进展
+**59 分** · 市场与投资、1 家媒体报道、标题包含具体进展
 
-围绕市场与投资、贸易与能源说明最新进展、受影响的对象和下一项待观察的数据。
+围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。
 
-- **华尔街日报** · Asian Stocks Rise as Investors Shrug Off U\.S\. Tariff Plan \- WSJ · [Google News 入口](<https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5>)
-  - RSS 摘录 · Asian Stocks Rise as Investors Shrug Off U\.S\. Tariff Plan WSJ
+- **巴伦周刊** · Stock Futures Rise as Dow’s Rebound Goes Global\. It Bodes Well for Black Friday Trading\. · [Google News 入口](<https://news.google.com/rss/articles/CBMid0FVX3lxTE03UmtKSWxxaXFlWk9sdlFzUTZCazZiUzZtNGd5U2lFVXF4T2FpdXdIVlBMVmZFTGNaM3B3OTVMOVhubF80a1Zfd1pzSl9Ic1djOG1PTzRrZEdOaGRJaFZzMUUzbnVmYkpvMTVmT2l0MjBpMGhVQ2Vn?oc=5>)
 
 ## 3. The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates
 
-**63 分** · 货币政策、宏观数据、1 家媒体报道、标题包含具体进展
+**58 分** · 货币政策、宏观数据、1 家媒体报道、标题包含具体进展
 
 围绕货币政策、宏观数据说明最新进展、受影响的对象和下一项待观察的数据。
 
