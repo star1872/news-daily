@@ -1,12 +1,12 @@
 # 财经口播候选
 
-更新时间（UTC） 2026-11-27T21:02:00+00:00
+更新时间（UTC） 2026-11-28T07:30:04+00:00
 
 每次最多保留三条。报道摘录来自 RSS，制作视频前请查阅报道正文。
 
 ## 1. Stocks snap from a $6 trillion washout to a $3\.5 trillion surge as Nvidia, Micron, and SpaceX bounce back
 
-**59 分** · 市场与投资、1 家媒体报道、标题包含具体进展
+**53 分** · 市场与投资、1 家媒体报道、标题包含具体进展
 
 围绕市场与投资说明最新进展、受影响的对象和下一项待观察的数据。
 
@@ -14,7 +14,7 @@
 
 ## 2. Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding
 
-**59 分** · 企业经营、1 家媒体报道、标题包含具体进展
+**53 分** · 企业经营、1 家媒体报道、标题包含具体进展
 
 围绕企业经营说明最新进展、受影响的对象和下一项待观察的数据。
 
@@ -22,7 +22,7 @@
 
 ## 3. Two Chinese firms linked to Alice Huang installed Nvidia Blackwell chips: Report
 
-**59 分** · 企业与产业、1 家媒体报道、标题包含具体进展
+**53 分** · 企业与产业、1 家媒体报道、标题包含具体进展
 
 围绕企业与产业说明最新进展、受影响的对象和下一项待观察的数据。
 

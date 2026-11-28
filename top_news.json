@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-27T21:02:00+00:00",
-  "news_updated": "2026-11-27T21:02:00.775865+00:00",
+  "updated": "2026-11-28T07:30:04+00:00",
+  "news_updated": "2026-11-28T07:30:04.067165+00:00",
   "trends_available": true,
   "events": [
     {
       "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-      "score": 59,
+      "score": 53,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
@@ -36,10 +36,10 @@
     },
     {
       "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-      "score": 59,
+      "score": 53,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
@@ -67,10 +67,10 @@
     },
     {
       "title": "Two Chinese firms linked to Alice Huang installed Nvidia Blackwell chips: Report",
-      "score": 59,
+      "score": 53,
       "scores": {
         "audience_impact": 22,
-        "new_development": 25,
+        "new_development": 19,
         "video_potential": 12,
         "source_coverage": 0,
         "search_trend": 0
